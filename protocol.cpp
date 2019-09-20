@@ -1,5 +1,6 @@
 // -------------------------------------------------------------------
 //   Copyright (C) Pedro Igor B. S 2019
+// -------------------------------------------------------------------
 //
 //   Licença: GNU GPL 2
 // -------------------------------------------------------------------
@@ -12,7 +13,7 @@
 //   but WITHOUT ANY WARRANTY; without even the implied warranty of
 //   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 //   GNU General Public License for more details.
-// ------------------------------------------------------------------- //
+// -------------------------------------------------------------------
 
 
 #include<protocol.h>

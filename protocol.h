@@ -1,10 +1,6 @@
 // -------------------------------------------------------------------
 //   Copyright (C) Pedro Igor B. S 2019
 // -------------------------------------------------------------------
-//   Arquivo: USART.h
-//   Descrição: Esse progrma é uma bibliotéca para facilitar o uso do
-//   periferio USART do microcontrolador AVR ATMEGA328P
-//   Autores: Pedro Igor Borçatti da Silva
 //
 //   Licença: GNU GPL 2
 // -------------------------------------------------------------------
